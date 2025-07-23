@@ -12,6 +12,7 @@ SPDX-License-Identifier: curl
 - cli를 어떻게 구현했는가?
 - 인터넷 통신을 어떻게 구현했는가?
 - 내가 모르는 c언어 문법이 어떤 게 있는가?
+- cmake 문법 알아보기
 
 curl is a command-line tool for transferring data specified with URL syntax.
 Learn how to use curl by reading [the
