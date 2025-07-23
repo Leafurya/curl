@@ -6,6 +6,13 @@ SPDX-License-Identifier: curl
 
 # [![curl logo](https://curl.se/logo/curl-logo.svg)](https://curl.se/)
 
+## 학습 목표
+- 모듈을 어떻게 분리했는가?
+- 어떤 파일 구조를 가지고 있는가?
+- cli를 어떻게 구현했는가?
+- 인터넷 통신을 어떻게 구현했는가?
+- 내가 모르는 c언어 문법이 어떤 게 있는가?
+
 curl is a command-line tool for transferring data specified with URL syntax.
 Learn how to use curl by reading [the
 manpage](https://curl.se/docs/manpage.html) or [everything
